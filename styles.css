@@ -1,0 +1,66 @@
+body {
+    background-color: #6a8caf;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+
+    font-size: 24px;
+    text-align: end;
+    font-weight: bolder;
+}
+
+.birdy {
+    padding-left: 200px;
+}
+
+.card {
+    margin: 20px 10px 20px 10px;
+}
+
+.col-md-12 {
+    text-align: center;
+}
+
+.container {
+    padding: 0 auto 0 auto;
+}
+
+.description {
+    font-size: 20px;
+    text-align: left;
+}
+
+.footer-link {
+    text-align: center;
+    padding: 20px;
+}
+
+.footer-company {
+    text-align: center;
+    font-size: 10px;
+    height: 50px;
+    margin-top: 50px;
+}
+
+.nav {
+    background-color: #eef9bf;
+    color: #696969;
+    margin-bottom: 30px;
+}
+
+.row {
+    background-color: #a7e9af;
+
+}
+
+.row-1 {
+    background-color: #a7e9af;
+
+}
+
+.row-12 {
+    background-color: #d3d3d3;
+    height: 100px;
+
+}
